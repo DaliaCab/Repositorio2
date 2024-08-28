@@ -1,2 +1,4 @@
 # Repositorio2
-Se crea repositorio para generar y solucionar conflicto entre ramas
+Se crea un repositorio para generar y solucionar conflictos entre ramas
+
+Se implementan los primeros cambios en un archivo
